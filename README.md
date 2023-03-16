@@ -17,3 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 To jest mój pierwszy commit ze mianami.
 
+to jest drugi commit
+i trzeci
